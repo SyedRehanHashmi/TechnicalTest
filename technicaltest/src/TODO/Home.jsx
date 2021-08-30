@@ -2,9 +2,6 @@ import React, { useState, useEffect } from "react";
 import { Card, Row, Col } from "react-bootstrap";
 import { ToDoList } from "../TODO/ToDoList";
 import { AddToDo } from "../TODO/AddToDo";
-// import { ToDoList } from "./ToDoList/ToDoList";
-// import { AddToDo } from "./ToDoList/AddToDo";
-// import "./ToDoList/ToDo.css";
 import "../TODO/ToDo.css";
 
 const getLocalItems = () => {

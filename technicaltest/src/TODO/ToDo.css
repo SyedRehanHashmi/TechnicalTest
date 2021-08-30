@@ -2,33 +2,28 @@
     background-color: lavender !important;
     margin: 5px;
     padding: 5px;
-    font-family: "Times New Roman", Times, serif;
-    /* flex-wrap: nowrap;
-    flex-direction: row; */
   }
+
   .todolist {
     background-color: rebeccapurple !important;
     color: black;
     margin: 5px;
     padding: 5px;
-    box-shadow: 0 0 15px rgb(253, 251, 251);
-    animation: rotation 5s linear infinite;
   }
+
   h1 {
     color: burlywood;
-    animation: rotation 10s linear infinite;
+    font-family: fantasy;
   }
+
   .addtodo {
     background-color: rgb(88, 49, 155) !important;
     color: rgb(232, 209, 227);
     margin: 5px;
     padding: 5px;
-    box-shadow: 0 0 15px rgb(253, 251, 251);
-    animation: blinker 5s linear infinite;
   }
   .todoitem {
     background-color: lavender !important;
     margin: 10px;
     padding: 5px;
-    animation: rotation 1s linear infinite;
   }

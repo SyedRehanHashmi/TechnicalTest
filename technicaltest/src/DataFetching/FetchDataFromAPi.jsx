@@ -1,7 +1,6 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import { Card, Row } from "react-bootstrap";
 import axios from "axios";
-import { useEffect } from "react";
 
 export const FetchingDataFromApi = () => {
   const [resData, setResData] = useState([]);

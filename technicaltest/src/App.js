@@ -1,7 +1,6 @@
 import './App.css';
-
-import { FetchingDataFromApi } from './DataFetching/FetchDataFromAPi';
 import { Home } from './TODO/Home';
+import { FetchingDataFromApi } from './DataFetching/FetchDataFromAPi';
 
 
 
